@@ -75,7 +75,7 @@ The workbook includes charts and pivot-table summaries for customer and campaign
 
 The dashboard combines visualizations with KPI cards and interactive controls, providing a more engaging experience than a static collection of charts.
 
-## 💡 Business Insights
+##  Business Insights
 
 The current analysis highlights the following findings:
 
